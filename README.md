@@ -1,3 +1,8 @@
+# 📈 Relatório Automático de Vendas com Python
+
+Este projeto gera relatórios de vendas a partir de uma planilha Excel, cria gráficos automáticos e salva tudo de forma organizada.
+
+
 ## 📊 Gráficos Gerados
 
 ### Vendas por Vendedor
@@ -22,4 +27,5 @@
 - Pandas
 - Matplotlib
 - Openpyxl
+
 
