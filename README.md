@@ -1,6 +1,10 @@
-# Relatório Automático de Vendas
+## 📊 Gráficos Gerados
 
-Projeto de automação com Python para geração de relatórios empresariais.
+### Vendas por Vendedor
+![Gráfico de vendas por vendedor](output/vendas_por_vendedor.png)
+
+### Vendas por Região
+![Gráfico de vendas por região](output/vendas_por_regiao.png)
 
 ## Funcionalidades
 - Leitura de planilhas de vendas
@@ -18,3 +22,4 @@ Projeto de automação com Python para geração de relatórios empresariais.
 - Pandas
 - Matplotlib
 - Openpyxl
+
